@@ -28,15 +28,14 @@
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via chatgpt e copilot
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Leonardo Para gerar capas e imagens
+- Movavi para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- [Notion Template](https://www.notion.so/Projeto-podcast-17c2b9fabcf480abab85d9c804c67da1?showMoveTo=true&saveParent=true)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 

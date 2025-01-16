@@ -14,7 +14,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp "Caixa IA Generativa com Microsoft Copilot", no qual fui aluno na plataforma da DIO
 > 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+   Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 

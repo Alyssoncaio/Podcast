@@ -22,7 +22,7 @@
 
 - [ChatGPT](https://chat.openai.com/)
 - [Copilot](https://copilot.microsoft.com/)
-- [Leonardo AI]([https://leonardo.ai/)
+- [Leonardo AI](https://leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Movavi](https://www.movavi.com/pt/videoeditor/)
 

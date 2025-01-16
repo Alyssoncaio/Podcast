@@ -45,8 +45,10 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Criar 06 título sugestivo para um podcast cujo o tema é: "Como se preparar para concursos para bancos públicos no Brasil”                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Criar 06 título sugestivo para um podcast cujo o tema é: "Como se preparar para concursos dos bancos públicos no Brasil”                                                        |
+| conteúdo | - Mostre tudo que eu preciso saber sobre os concursos bancários
+- chat use a regra de paredes para separar os principais assuntos que as pessoas precisam estudar.
+- Monte um cronograma completo com um total de 30 dias de estudo de 02 horas por dia e fazendo muitos exercícios de treinos para a prova |
 
 ## 👨‍💻 Expert
 
